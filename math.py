@@ -1,11 +1,10 @@
-def add(x,y): 
- pass 
- 
+def add(x,y):
+ return x+y 
 def subtract(x,y): 
- pass 
- 
-def multiply(x,y):
- pass 
- 
-def divide(x,y):
- pass
+ return x-y 
+def divide(x,y): 
+ return x/y 
+def add(x,y): 
+ return x+y
+def area(x,y): 
+ return 2*x*y 
