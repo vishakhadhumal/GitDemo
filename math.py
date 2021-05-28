@@ -11,3 +11,6 @@ def area(x,y):
  return 2*x*y 
 def triarea(x,y): 
  return 0.5*x*y 
+ 
+ def power:
+  return x*x
