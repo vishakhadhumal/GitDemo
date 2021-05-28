@@ -5,7 +5,8 @@ def subtract(x,y):
 def divide(x,y): 
  return x/y 
 def add(x,y): 
- return x+y
+ ad=x+y
+ return ad
 def area(x,y): 
  return 2*x*y 
 def triarea(x,y): 
