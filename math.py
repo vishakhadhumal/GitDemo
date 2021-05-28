@@ -8,3 +8,5 @@ def add(x,y):
  return x+y
 def area(x,y): 
  return 2*x*y 
+def triarea(x,y): 
+ return 0.5*x*y 
